@@ -1,0 +1,619 @@
+
+9 - 319 - 068 
+R EV : S EP T EM BER 6 , 2 0 19 
+
+
+
+
+J OS E P H B . F U LLER J OH N MA S K O
+
+Theranos: The Unicorn that Wasn't
+"The next Steve Jobs or Bill Gates" 1
+- U.S. Secretary of State George Shultz on Theranos founder Elizabeth Holmes, September 8, 2013
+   "'WE SET OURSELVES ON FIRE': ELIZABETH HOLMES, DISGRACED THERANOS C.E.O., CHARGED WITH 'MASSIVE FRAUD'"2
+                                                  - Headline in Vanity Fair, March 14, 2018 The jig was up. On March 14, 2018, the death knell of one of America's best-known biotechnology
+startups reverberated across the country:
+   The Securities and Exchange Commission today charged Silicon Valley-based private company Theranos Inc., its founder and CEO Elizabeth Holmes, and its former President Ramesh "Sunny" Balwani with raising more than $700 million from investors through an elaborate, years-long fraud in which they exaggerated or made false statements about the company's technology, business, and financial performance.3
+   Three years prior, Theranos had been valued at $9 billion, and founder Holmes lauded as America's youngest female self-made billionaire.4 Publications such as Fortune, the New Yorker, and the Wall Street Journal had touted Theranos' proprietary technology, which the company claimed could perform a wide range of formerly expensive and anxiety-inducing blood tests with the prick of a finger and nearly instant results.5 With the promise of Theranos, drug makers running clinical trials could catch adverse reactions before they caused harm. Blood-based tumor markers could be used to diagnose cancer months before patients became symptomatic. Uninsured Americans without access to life-saving blood tests could access them for pennies on the dollar, compared to rates offered by Quest and LabCorp, who together accounted for 80% of the independent lab market in the U.S.6
+   Theranos had claimed that institutions such as Harvard and Johns Hopkins Medical Schools had endorsed its products. The company's star-studded board had included General James Mattis, Secretaries of State George Shultz and Henry Kissinger, members of Walmart's Walton family, and attorney David Boies. Holmes herself had been appointed to Harvard Medical School's Board of
+
+
+
+Professor Joseph B. Fuller and Case Researcher John Masko (Case Research & Writing Group) prepared this case with the assistance of Executive Director Carin-Isabel Knoop. The authors would like to thank John Carreyrou and Penguin Random House books for their permission to rely on Bad Blood: Secrets and Lies in a Silicon Valley Startup in the creation of this case. This case was developed from published sources. Funding for the development of this case was provided by Harvard Business School and not by the company. HBS cases are developed solely as the basis for class discussion. Cases are not intended to serve as endorsements, sources of primary data, or illustrations of effective or ineffective management.
+
+Copyright (c) 2019 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685, write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized, photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+
+
+
+Fellows and named a Presidential Ambassador for Global Entrepreneurship by President Barack Obama.a,7
+   But in October 2015, John Carreyrou, an investigative reporter for the Wall Street Journal, published the first in a series of articles revealing that Theranos produced inaccurate test results, relied heavily on non-proprietary devices to perform its tests, and violated multiple regulatory standards.8 Carreyrou's reporting presaged a three-year stream of revelations about the company's operating practices, corporate culture, and technology. In the fall of 2018, Theranos, once among Silicon Valley's most vaunted "unicorns,"b was dissolved; its investors lost almost $1 billion.9
+
+Elizabeth Holmes
+   Elizabeth Holmes was born in 1984 in Washington, D.C to a family with a long history of success in business, medicine, and public service.10 From a young age, she wanted two things out of life: to make an impact in the world and to be rich.11,12 She was a precocious high schooler, studying math, science, and languages late into the night. Holmes enrolled at Stanford in 2002, where she was drawn to the chemical engineering lab run by celebrated engineer Channing Robertson.13 She begged him for a research position and was granted an opportunity to assist Ph.D. student Shaunak Roy, who was working on enzymes for laundry detergents.14
+   The following summer, Holmes did an internship at the Genome Institute in Singapore, where she tested patient blood samples. Holmes (who had a lifelong fear of needles) found this process unwieldy, old-fashioned, and inhumane.15 Back home after the internship, she spent five days writing "a patent application for an arm patch that would simultaneously diagnose medical conditions and treat them."16 Her design consisted of microneedles attached to the patient's skin that drew a patient's blood, and a microchip which analyzed the blood and regulated the delivery of a drug (also contained in the patch).17
+   When she returned to Stanford, she showed the application to several faculty members. Phyllis Gardner, a professor of clinical pharmacology, dismissed the idea as completely implausible, given the properties of various drugs and the workings of microfluidic channels.18 Robertson, however, was more encouraging. He recalled: "She had somehow been able to take and synthesize these pieces of science and engineering and technology in ways that I had never thought of. I never encountered a student like this before   encouraged her to go out and pursue her dream."19
+
+Building Theranos
+   Within weeks, Holmes dropped out of Stanford. As she recalled, "I wasn't going to any classes and I was spending all of my time talking to VCs, so then, logistically, it seemed like a waste of money."20 She went into business with Roy, her former lab supervisor. Though Roy initially found Holmes' idea somewhat fanciful, her enthusiasm (and Robertson's imprimatur) won him over.21 They incorporated
+
+
+a The Presidential Ambassadors for Global Entrepreneurship was a program created by President Obama's Department of Commerce. It was designed to be "a group of successful American businesspeople eager to share their knowledge and experience to help develop the next generation of entrepreneurs at home and abroad." "Readout of the President's Meeting with the Presidential Ambassadors for Global Entrepreneurship," Obama White House Archives, April 7, 2014, https://obamawhitehouse.archives.gov/the-press-office/2014/04/07/readout-president-s-meeting-presidential-ambassadors- global-entrepreneur, accessed December 2018.
+b Unicorn was a term used to describe privately-held startup companies with valuations in excess of $1 billion.
+
+
+
+
+the company as Real-Time Cures, a name they subsequently changed to Theranos (a nod to her patch's mission to both provide "therapies" and "diagnose" patients).22 Holmes' "TheraPatch" idea attracted some early investments from family and friends, giving her the resources to hire a small staff and lease a low-rent office in East Palo Alto, California.23 Former neighbor Tim Draper (MBA, 1984), a founder of DFJ Venture Capital, invested $1 million. Consultant and family friend Victor Palmieri and a wealthy Stanford classmate also pitched in, helping bring the total to $6 million (see Exhibit 1 for a timeline).24 New biotech products, however, needed far more than $6 million upfront to develop and test, so Holmes sought further funding from the venture capital community.
+   When Holmes began pitching biotech-focused VCs, she met with skepticism. MedVenture Associates, for instance, doubted that her microchip system would work, asking Holmes technical questions she could not answer.25 After several such setbacks, Roy began to realize that Holmes' idea "bordered on science fiction."26 The pair decided to modify their design to a cartridge-and-reader blood analyzer. Users would put a tiny amount of blood into a cartridge, which would separate the blood's plasma and add testing reagents, initiating chemical reactions that the device would read and send wirelessly to Palo Alto for analysis.
+   Though no longer a patch, Theranos' new design retained three elements of Holmes' original idea: it used a tiny blood sample (as opposed to the large tubes of blood required by conventional labs), generated results quickly, and could fit in a patient's home.27 At least in theory, the device could allow doctors to monitor patients' status in real time and make instant adjustments in treatment.28 The technology, if Holmes could make it work, would solve a long-standing problem in blood testing-the inability to perform different classes of test on the same small sample of blood.29
+   By the end of 2005, Theranos had grown to 25 employees. A write-up in the tech magazine Red Herring, declaring Theranos one of the "hottest startups in the Valley," helped the company to complete a Series B funding round (see Exhibit 8a for a list of funding rounds).30 The round raised $9 million from seventy-six year old Silicon Valley billionaire investor Don Lucas and his protégé, software legend and Oracle founder Larry Ellison.31 A Series C round in late 2006 netted around $30 million, providing the resources for Theranos to create a basic prototype, engage an all-star chemistry team to design blood tests, and hire Silicon Valley engineer Ed Ku to turn the prototype into a product.32,33
+   Ku was tasked with turning the non-functioning prototype, called the Theranos 1.0, into a device that could reliably perform a wide range of immunoassay tests.c He faced two major challenges: First, he needed to fit the chemicals required to perform these tests onto a credit card-sized cartridge without cross-contamination. Second, the tiny blood sample size Holmes had insisted on-only a drop or two- posed a major stumbling block. Though Ku was able to cobble together a functioning Theranos 1.0 by late 2006, it remained highly unreliable, and the single-use cartridges he devised cost as much as $200 each to manufacture.34,35
+Courting Big Pharma
+   Even before the prototype was completed, Holmes had begun approaching drug companies, claiming that Theranos could make their drug trials safer by closely monitoring patient responses and limiting adverse reactions.36,37 It was a convincing sell. She quickly secured provisional deals with six leading pharmaceutical companies, including Novartis, Pfizer, Centocor, and AstraZeneca, contingent
+
+
+c Immunoassays, one of four major categories of blood test, measured the concentration of substances in the blood using antibodies. Tests possible with immunoassays included Vitamin D, prostate cancer, and pregnancy tests. More than half of blood tests, however, were impossible by immunoassay. Carreyrou, Bad Blood, p. 96.
+
+
+
+
+upon Theranos devices' ability to pass validation testing (see Exhibit 2 for a sampling of slides from Theranos' 2006 pitch deck).
+   Holmes' first demonstration of the Theranos 1.0 was to pharmaceutical company Novartis in Switzerland in November 2006.38 It did not go well. Holmes had brought two Theranos 1.0 devices with her. One of the two broke down and Theranos' analysis team in Palo Alto resorted to transmitting made-up results to mask the problem.39 Upon returning to Palo Alto, Holmes was visibly ecstatic about the presentation, but the Theranos employees who had accompanied her were not.40
+   The next year, Holmes started a validation study in Tennessee with pharmaceutical giant Pfizer. In that study, for which Holmes and Ku flew to Nashville, Theranos devices ran daily tests on the blood of terminal cancer patients enrolled in a Pfizer drug trial.41 Theranos employees were able to draw and analyze blood from a handful of patients successfully, transmitting results back to Pfizer. Pfizer, however, eventually pulled out of the study, citing patient complaints, inconsistent test results, device transmission problems, and the machines' oversensitivity to temperature.42
+The Edison
+   As Ku struggled to refine the 1.0, Holmes hired a competing team in late 2007 to create a new prototype.43 That team avoided some of the pitfalls of doing complex chemistry on a tiny cartridge that Ku had encountered, by using a pipette-wielding robotic arm to perform the same procedures as a human lab chemist.44 Holmes named the resulting desktop computer-sized immunoassay device the Edison.45 By the time the team completed a single prototype and put it through "a basic safety review done to make sure it wouldn't electrocute anyone," Holmes was already showing it to colleagues and prospective business partners.46 She even hired legendary industrial designer Yves Behar to give her "iPod of healthcare" a sleek black-and-white exterior.47 Shortly after the prototype's completion, Ku was dismissed.48
+   In early trials, the Edison experienced similar problems to the 1.0. In a second session with Novartis in late 2008, Holmes brought along three Edisons, none of which worked.49 In a 2009 trial with Belgian biotech company Centocor, the Edison again failed. The devices proved finicky, requiring a temperature of precisely 34°C to work. They also delivered inaccurate readings due to blood dilution- a result of Holmes' insistence on the use of tiny samples-and suffered from wireless transmission issues.50
+
+Maintaining Control
+The Cult of Secrecy
+   Despite Theranos' inability to create a reliable prototype, few employees were aware of the devices' technical struggles.51 A pervasive culture of secrecy limited the flow of information about the company's technology, processes, and performance, leaving many employees to rely on rumors and gossip for information. Theranos maintained secrecy not only through physical barriers within its headquarters, but through the company's IT systems, which prevented employees from sharing information or even sending instant messages.52
+   Moreover, most employees who developed any concerns learned quickly not to express them. Holmes was volatile and could lash out at employees who expressed doubts about Theranos' products or strategy (see Exhibit 3). When Theranos CFO Henry Mosley heard about the Novartis malfunction in November 2006 and suggested to Holmes that the company might be misrepresenting the efficacy
+
+
+
+
+of its product to investors, she declared him "not a team player" and fired him on the spot. Theranos would not hire another CFO after Mosley.53 Likewise, when Holmes' top product designer asked whether the Pfizer study might be paused while technical issues were addressed, Holmes suggested that she reconsider her employment at Theranos.54 Over time, a procession of employees who expressed concerns over Theranos' business practices or prospects were ostracized or terminated.55 Furthermore, many employees were in the U.S. on H1-B visas and readily intimidated by management, an arrangement that Carreyrou likened to "indentured servitude."56
+   Holmes was also hypersensitive about Theranos' intellectual property, requiring employees, as well as every person who entered the Theranos building, to sign non-disclosure agreements. She regularly threatened legal action against ex-employees who she often alleged had stolen intellectual property.57
+Building a Board
+   Holmes kept tight control over Theranos' four-member board. In 2006, Chairman Lucas brought Steve Jobs' former right-hand man Avie Tevanian, who had recently retired from Apple, onto the Theranos board. Tevanian was initially impressed with Holmes, finding her "a bright young lady who was passionate about what she was doing, exactly the qualities you looked for in an entrepreneur."58 In late 2006, he purchased $1.5 million of Theranos stock.59
+   After only a brief stint on the board, however, Tevanian began to feel uneasy about Holmes' management. For one thing, he found her aggressive revenue projections implausible. In mid-2007, with the company valued at $165 million, Holmes projected revenues of between $120 million and $300 million in the next year and a half, and upwards of $1.5 billion per year shortly thereafter.60 She based those projections on six pharmaceutical deals that she represented as all but closed. During the previous year, Holmes had reportedly asked Mosley to revise revenue projections dramatically to reflect the pharmaceutical agreements, none of which he had seen.61 Likewise, whenever Tevanian asked Holmes to provide copies of the deals, he was told they were "held up in legal review" and unavailable.62
+   Digging deeper, Tevanian discovered "irreconcilable" discrepancies in the financial documents Holmes had provided to the board.63 He brought the matter to Lucas' attention, suggesting that the fiduciary health of Theranos might be better served by adding another more experienced executive to support Holmes. Lucas disagreed, and suggested that if Tevanian held such views, he should resign. Tevanian took his advice. On his way out, he also waived his right to acquire a portion of Shaunak Roy's shares in Theranos (Roy was in the process of departing the company) after being threatened with a lawsuit for "disparagement" if he acquired the shares.64
+   A year later, a Theranos executive and the company's general counsel surfaced concerns with Lucas, alleging that Holmes' revenue projections "weren't grounded in reality . . . and were impossible to reconcile with the unfinished state of the product."65 This time, the chairman felt that he had to act. According to Carreyrou, he gathered the board in March 2008. With Holmes standing outside the conference room, the board agreed to replace her as CEO. Lucas then ushered her in to inform her of their decision. 90 minutes later, however, Holmes emerged, still Theranos' CEO. Carreyrou explained: "She told them she recognized there were issues with her management and promised to change. She would be more transparent and responsive going forward. It wouldn't happen again."66 The board had relented.67
+   Holmes' promises notwithstanding, Theranos' culture became even more stifling after the coup attempt. Shortly after the board meeting, she fired both employees who had brought concerns to the board.68 In the summer of 2009, Holmes hired Ramesh "Sunny" Balwani as president and COO.
+
+
+
+
+Balwani, born in India, was 19 years older than Holmes and had no life science experience. He had made millions in Silicon Valley as a software engineer during the dot-com boom and had retired to a life of designer clothing and his black Lamborghini Gallardo. The two had met in 2002, when Holmes was about to begin her freshman year at Stanford, as participants in Stanford's Mandarin summer language program in Beijing.69 Deemed flashy, loud, and arrogant, Balwani became Holmes' main "enforcer" at Theranos.70,71 It eventually came to light that Holmes and Balwani had a long-standing romantic relationship, a fact of which neither Theranos' employees nor board were informed. Around the same time, Holmes also hired her brother, Christian, and several of his fraternity brothers from Duke University. This group, known in the office as the "Frat Pack," ran Theranos' product management team and enjoyed greater access to Holmes than many senior employees.72
+
+Concluding Three Partnerships
+Walgreens
+   Walgreens, headquartered outside Chicago, was the second largest drugstore chain in the United States, with 8,000 stores nationwide.73 It maintained a fierce rivalry with the larger Woonsocket, Rhode Island-based CVS, and was always searching for innovations to differentiate it from its rival. In January 2010, a letter from Theranos founder Elizabeth Holmes caught the company's attention. Theranos' technology, she claimed, could perform any of 192 blood tests using only a few drops of blood. If deployed in Walgreens stores, Holmes suggested, Theranos could help customers take control of their health and even promote the earlier detection of disease. Walgreens executives were intrigued.d,74
+   After weeks of negotiations, the companies agreed on a pilot program. Provided that Theranos committed to sending Walgreens customers their test results within an hour, Walgreens would place Theranos devices in 30 to 90 stores by mid-2011. As part of the deal, Walgreens also purchased $50 million in cartridges and loaned Theranos $25 million.75 As it negotiated the agreement, Walgreens hired a lab sciences expert, Kevin Hunter, as a consultant to vet Theranos' technology in advance of the pilot.
+   In August 2010, Hunter and several Walgreens executives travelled to the Theranos facility in Palo Alto for a planning meeting. When Hunter asked to see Theranos' lab (at the time, there was no lab other than the room for assembling and servicing Edisons), Holmes answered she was not "yet" ready to show it. Instead, Balwani showed the Walgreens delegation his office (where he kept a sleeping bag on the floor).76 Hunter was struck during his visit by Theranos' obsessive secrecy; Balwani even insisted on accompanying him to the restroom.77
+   After the meeting, Hunter submitted a memo to Walgreens executives, suggesting that Theranos "could be overselling or overstating . . . where they are at scientifically with the cartridges/devices."78 He suggested that Walgreens place one of its own employees at the startup in an observational capacity until the pilot was launched. Walgreens forwarded his proposal to Theranos; Holmes refused.79
+   A few months later, the companies met at Walgreens headquarters to celebrate their partnership. At the party, Holmes convinced several Walgreens executives to prick their fingers for a test using Theranos technology. Hunter, sensing an ideal vetting opportunity, followed up by asking Holmes for the executives' results. Holmes never sent them.80 Suspicious, he asked Holmes on a conference call
+
+
+
+d Holmes' claim was a gross exaggeration. The still unreliable Edison, when functioning, could only do immunoassays, which represented approximately half the tests on the list she presented.
+
+
+
+
+the next week whether Theranos would consent to having him arrange a 50-patient study at Stanford Hospital comparing its technology's efficacy with traditional lab tests. Holmes declined.81
+   At this point, Hunter again took his concerns to a top Walgreens executive, contending that Theranos had stonewalled him from truly vetting their technology, and reiterating his doubts that the technology was as advanced as they claimed. The executive, who also seemed concerned, nonetheless declared that Walgreens had no choice but to pursue the deal. He allegedly continued, "We can't risk a scenario where CVS has a deal with them in six months and it ends up being real."82 Shortly thereafter, Holmes asked that Hunter be excluded from the two companies' conference calls, claiming he was creating "too much tension." Hunter was gradually marginalized by Walgreens.83
+Safeway
+   As the Walgreens partnership was getting off the ground, Holmes inked a second retail agreement-with national supermarket chain Safeway, headquartered across the bay from Palo Alto in Pleasanton, California. Safeway had struggled in recent years and the company's CEO, Steven Burd, thought a significant "wellness play" could help revive the aging chain.84 During Holmes' presentation, one Safeway executive particularly connected with her testimony about her lifelong fear of needles; that executive's husband was suffering from lung cancer and undergoing debilitating daily blood draws. Burd was enamored of Holmes, bearing gifts for her each time he visited Theranos, including a model of a private jet.85 The companies soon had a deal. The supermarket chain agreed to loan Theranos $30 million, and to build wellness centers featuring its technology in 800 Safeway stores nationwide, in exchange for Safeway becoming Theranos' exclusive partner in the grocery channel.86 By 2012, Safeway's wellness centers had been built at a cost of $350 million, and awaited Theranos devices.87
+U.S. Department of Defense (DOD)
+   In August 2010, Holmes had also met with the leader of U.S. Central Command (CENTCOM), General James Mattis (later U.S. Secretary of Defense) at San Francisco's Marines' Memorial Club. Holmes impressed Mattis with her description of Theranos' technology and its potential to save lives on the battlefield. They sketched out a provisional agreement to test Theranos devices on the front lines in Afghanistan.88 Mattis and Holmes' notional agreement, however, was checked by an intervention from the Pentagon's Division of Regulated Activities and Compliance, which contended that Theranos technology had not undergone proper Food and Drug Administration (FDA) review and could not ethically be used on troops in the field.89 Mattis settled for a compromise in August 2012: the military would test the devices using saved blood samples, comparing the results to traditional testing.90 While Holmes would regularly cite the partnership to customers, investors, and the media in subsequent years, suggesting the technology was being used by the armed forces in combat zones, the partnership did not advance beyond the study phase. DOD paid Theranos $300,000 to study its devices, but the devices never made it to the field.91
+
+Fresh Money, Fresh Problems
+   While the Walgreens and Safeway transactions accorded Theranos both financing and credibility, they placed new pressures on Holmes and Balwani. The Edison had thus far proven unreliable. And even had the Edison been fully functional, it was designed to perform only a fraction of the tests Holmes had promised to her new partners.92
+
+
+
+
+The miniLab
+   By late 2010, Holmes had decided to abandon the Edison in favor of a new platform, called the miniLab (see Exhibit 4). The miniLab would contain both the photomultiplier tube the Edison had used to conduct light-based immunoassay readings, and three additional instruments: a spectrophotometer, a cytometer, and an isothermal amplifier. Those technologies were integral to the larger devices used in commercial scale laboratories, but had never been combined and miniaturized into units appropriate for a home, pharmacy, or supermarket.93 The device would be truly revolutionary. As Holmes proclaimed at the 2011 company Christmas party: "The miniLab is the most important thing humanity has ever built. If you don't believe this is the case, you should leave now."94
+   Theranos' engineers, however, once again ran into problems meeting Holmes' size specifications. They wanted to first build their prototype using purchased equipment to see how the components worked together without worrying about size; they would miniaturize it later. "Emphasizing the system's size first and how it worked later," Carreyrou contended, "was putting the cart before the horse."95 As the engineers worked on their prototype in the summer of 2011, however, Holmes became increasingly insistent that they move directly to building a device that fulfilled all her criteria, including size. The engineers found her timeframe unrealistic.96 (Unbeknownst to the engineers, who were unaware of the Walgreens partnership due to Holmes and Balwani's obsessive secrecy, Theranos had already missed the agreed-upon deadline for shipping its devices to Walgreens stores.97 Holmes had succeeded in persuading Walgreens' disgruntled leadership to postpone the launch to February 1, 2013.98)
+   By early 2012, Theranos had built a miniLab. It was still a prototype, and suffered from significant performance problems that could only be resolved through an extended period of testing and refinement.99 Despite those uncertainties, however, Balwani had already begun ordering parts to build a hundred miniLabs.100 Soon thereafter, Holmes unveiled a manufacturing facility in Newark, California that Theranos had leased solely to produce the devices.101
+   As the Walgreens launch neared, the engineering staff struggled to perfect the miniLab. It continued to be unreliable-its robotic arms and pipettes (its internal structure was essentially a more complex version of the Edison) frequently broke or became misaligned. Moreover, the miniLab could only test one blood sample at a time, a nonstarter considering Theranos' commitment to provide Walgreens' customers with rapid results.102
+   On the eve of the launch, Holmes ran out of time. Theranos tabled the miniLab and deferred the idea of putting its devices in Walgreens stores. It opted instead for a two-pronged backup plan: rather than having blood analysis on site, Walgreens locations would ship the blood to Theranos' blood lab in Palo Alto, where immunoassay tests would be done with Edison machines and other tests on conventional lab machines manufactured by Theranos' competitors.103 Sending blood to a central lab not only provided Holmes an out from deploying faulty technology. It also meant that Theranos could proceed without securing FDA approval for its devices, instead only needing conventional lab certification through the Centers for Medicare and Medicaid Services (CMS), which was much easier to obtain.104
+The Hybrid Lab
+   Theranos' first foray into using traditional lab equipment had come a year earlier as part of the Safeway partnership. As a "beta" test for the "wellness play," Theranos had agreed to handle blood testing for Safeway's employee clinic in Pleasanton. With the miniLab only in prototype form and the Edison only able to process immunoassays, Theranos turned to traditional lab equipment to meet its
+
+
+
+
+obligation. The company built a conventional lab in Palo Alto in early 2012, secured CMS certification from the California state inspectors, and hired a staff of phlebotomists and techs to process blood drawn at the Safeway clinic.105 Theranos' results would now be produced by a combination of conventional technology and its own platform. Using traditional blood testing technology would require taking standard intravenous blood draws from each patient in addition to the finger-stick Theranos had intended to employ.
+   That compromise did not end Theranos' problems. Safeway employees were dismayed to find that it could take weeks to get their test results. The Theranos lab also produced suspect results at times, prompting Safeway's chief health officer to send concerned employees to get tested again at other labs.106 Though Balwani hired some qualified supervisors, including Alan Beam-former head of a children's hospital lab in Pittsburgh-as lab co-director, many of Theranos' lower-ranking lab techs lacked requisite experience. Beam and his colleagues frequently witnessed the use of expired chemicals, cross-contamination, and incorrect use of equipment in the Theranos lab.107 When they reported problems to Balwani, he claimed to have examined the lab himself and found nothing of concern.108
+   As the company prepared for the Walgreens launch, still more problems emerged. Having promised a full panel of tests with only a finger-stick of blood, the team needed to figure out how to do finger-stick tests on standard commercial equipment that normally required the considerably larger quantities of blood obtained through traditional blood draws. They found a way by jury-rigging a massive (1,320 pound) testing unit called the ADVIA (purchased from Siemens). The ADVIA could perform a wide range of "general chemistry assays," the biggest subcategory of blood test after immunoassays. Those tests included the "chem 18," a diagnostic panel frequently ordered by physicians.109 The ADVIA was not built, however, to run on Theranos' tiny samples, and required that the samples be diluted to levels far beyond what Siemens or the FDA recommended for the device.110 Indeed, Theranos' lab techs were specifically instructed to hide their procedures from Siemens maintenance workers when they came to the facility.111
+   When Beam arrived in April 2013, Theranos was performing its tests in a lab split into two levels. The upstairs, dubbed "Jurassic Park," was a traditional lab containing the ADVIA units and other standard equipment. The downstairs, "Normandy," was a room full of Edisons doing immunoassays. The naming symbolism implied that, just as the Allies stormed the beaches of Normandy, the Edison would be Theranos' beachhead to storm the antiquated world of traditional blood testing.112 Long- standing reliability problems with the Edison persisted, however, to the point that a few weeks before the Walgreens launch, a chemist who was a ten-year veteran at Theranos begged Holmes to postpone it further. Holmes refused: "When I promise something to a customer, I deliver."113
+
+Getting Visibility
+   As Theranos prepared its national debut, the company built a public relations profile befitting the "iPod of healthcare."114 Holmes worshipped Steve Jobs: she adopted his wardrobe-black turtlenecks and slacks-and affected a baritone voice.115 Many judged her a charismatic presenter, able to create a "reality distortion field"-a term that had once described Jobs' ability to convince subordinates of the possibility of seemingly impossible tasks.116
+   Holmes' infatuation with Apple manifested in other ways. In Theranos' early years, she hired several ex-Apple employees, including Yves Behar, a product designer brought on in 2007 to bring Apple's packaging magic to the Edison.117 As Theranos prepared to emerge from "stealth mode" (Holmes' words) in 2012, she hired Chiat\Day, the Los Angeles ad agency that had run Apple's most
+
+
+
+
+impactful campaigns in the 1980s and '90s, to manage its coming out party, build its new website, and create its public image.118
+   The image Chiat\Day chose to represent Theranos was the "nanotainer" (the name Holmes had given to Theranos' tiny finger-prick blood collection device). Chiat\Day mocked up full-page newspaper ads featuring the nanotainer, next to new slogans "One tiny drop changes everything" and "The lab test, reinvented."e119
+   The Chiat\Day team quickly uncovered problems, however, with the way Theranos planned to describe itself, particularly online. Holmes wanted the new website to claim that Theranos "could run 'over 800 tests' on a drop of blood," "that its technology was more accurate than traditional lab testing," that its "test results were ready in less than thirty minutes," that its tests were "FDA approved," and that Theranos had been "endorsed by key medical centers."120 When Chiat\Day employees inquired about those claims, the company struggled to substantiate them.
+   For example, Holmes' claim of superior accuracy came, Carreyrou later explained, "from a study that had concluded that 93 percent of lab mistakes were due to human error. Theranos argued that, since its testing process was fully automated inside its device, that was grounds enough to say that it was more accurate than other labs."121 Likewise, the "endorsements" from "key medical centers" appeared to be gross misrepresentations. For example, the purported endorsement from the Johns Hopkins School of Medicine was based on a statement by several Hopkins physicians following a single meeting with Holmes and Balwani, in which they said Theranos technology seemed "novel and sound." No one from Johns Hopkins had ever actually examined or tested a Theranos device.122 Chiat\Day's team eventually persuaded Theranos to soften some of its language for the launch.123
+
+Unicorn
+   On September 9, 2013, after missing an initial deadline of February 1, Theranos finally launched its pilot with Walgreens, opening blood collection sites in a store in Palo Alto and two in Phoenix, Arizona. Plans were in place to launch in several other locations.124 Though Walgreens executives knew that samples collected at their stores would be shipped to Palo Alto for analysis, they remained unaware that Theranos was conducting most of the tests using conventional technology.
+   As Theranos launched at Walgreens, Holmes introduced herself to the public. Theranos' new website and new image went live in September 2013.125 That same month, the Wall Street Journal published a profile of Holmes, announcing a "faster, cheaper and more accurate" alternative to the barbarous intravenous blood draw (see Exhibit 5 for a timeline of Theranos' publicity and exposure).126 The profile featured several prominent endorsements, including former Secretary of State George Shultz, whom Holmes had met through the Journal's editorial board. Shultz declared Holmes "the next Steve Jobs or Bill Gates."127 In the Journal, Holmes touted Theranos' "automated, standardized" technology, claiming that Theranos "attempts to subtract human error from the equation."128 By automating "over 1,000" blood tests, Holmes told the Journal, Theranos would save Medicare and Medicaid over $150 billion in ten years, by "a conservative estimate."129
+   The elevation of Holmes' profile coincided with the launch of her most ambitious funding round to date. She persuaded Lucas to invest another $15 million in the company, pushing Theranos' implied
+
+
+e See the following for video of a Theranos blood draw using a finger-stick and nanotainer: Theranos, "Theranos Sample Collection Device," YouTube, published August 1, 2016, https://www.youtube.com/watch?v=G24qzZ6OYF8, accessed February 2019.
+
+
+
+
+valuation to $6 billion, eclipsing Uber ($3.5 billion) and Spotify ($4 billion) (see Exhibit 6).130 He soon recruited two investors from the San Francisco hedge fund Partner Fund Management to Theranos' board, which swelled to twelve members.131
+   Lucas' pitch-that Theranos could do nearly every blood test in existence with equal accuracy to traditional methods using only a few drops of blood, that all its tests had been sent in for FDA approval, and that Theranos devices were actively deployed by the U.S. military in Iraq-was compelling to the Partner Fund's partners.f,132 So were Balwani's financial projections, predicting gross profits of $1.08 billion and revenues of $1.68 billion by 2015.133 (The prospective board members did not know that Theranos' internal projections, prepared by the company's controller to price employees' stock options, forecasted profits of $100 million and revenues of $134 million for the same period.134) Early in 2014, Partner Fund bought 5.5 million shares of Theranos stock. The additional funds valued Theranos at $9 billion, and Holmes's stake at slightly under $5 billion.135
+   Shultz also joined the board and convinced several colleagues, including former CENTCOM commander James Mattis (whose former lead bodyguard later ran Holmes' six-man security detail), former Secretary of State Henry Kissinger, and former Senator Sam Nunn, to join as well (see Exhibits 7 and 8).136 The only members of Holmes' 2014 board with biomedical backgrounds were former Senate Majority Leader and physician Bill Frist and former Centers for Disease Control head William Foege.137
+
+The Great Unraveling
+Tyler Shultz
+   Tyler Shultz, grandson of board member George Shultz, joined Theranos in the fall of 2013, having recently graduated from Stanford with a bachelor's degree in chemical engineering. He had been inspired by one of Holmes' lectures, in which she claimed that early disease detection with Theranos technology would create "a world in which no one would have to say goodbye to a loved one too soon."138 He joined Theranos' immunoassay team.g
+   Tyler's enthusiasm began to wane, however, the first time he saw the inside of an Edison. The rudimentary robotic arm design reminded him, in Carreyrou's telling, of "something a middle- schooler could build in his garage." He comforted himself with the idea that the miniLab, still in development, was probably more advanced.139
+   More distressing to Tyler, however, were the testing standards by which Theranos evaluated its devices' readiness to be used on patient samples.140 Tyler's role in his early months at Theranos (along with another recent hire, Erika Cheung) was to conduct "assay validation" to ensure that the Edisons were producing accurate results. In late 2013 and early 2014, Tyler and Cheung discovered that Theranos was frequently falsifying those validation studies. When Cheung evaluated the Edison's
+
+
+f Holmes was consistently ambiguous around the issue of regulatory approval. She maintained that Theranos' devices were simply miniaturized labs which ran traditional lab tests, and therefore argued that while Theranos might need certification as a lab (which was handled by CMS and was a less rigorous process than FDA approval), its devices did not need to be cleared as medical devices by the FDA. She claimed, both to her board and the public, that her decision to seek FDA approval for Theranos devices was completely voluntary. The FDA disagreed, and told Holmes multiple times that she needed to seek regulatory approval before marketing her devices. The agency finally intervened, striking Theranos' nanotainer from the market in late 2015. David Yanofsky, "What Elizabeth Holmes and Theranos did wrong, according to the SEC," Quartz, March 15, 2018, https://qz.com/1229656/everything-elizabeth-holms-and-theranos-did-wrong-according-to-the-us-securities-and-exchange- comission/, accessed December 2018.
+g To avoid confusion, George and Tyler Shultz will henceforth be referred to by their first names.
+
+
+
+
+syphilis test, for example, the device correctly identified only 65% of syphilis-positive samples on a first try and 80% on the second. Theranos's reported accuracy for the syphilis test, however, was 95%. Balwani insisted that the Edisons continue to be used, even when tests deviated by as much as 50% from the results produced by the conventional devices in the lab (as they did on a Vitamin D test).141
+   Management also worked to impede regulators. When a California Department of Public Health representative came to inspect Theranos' lab, Balwani barricaded the "Normandy" lab, forbidding anyone to enter or exit while the inspector was present. The inspector was directed instead to "Jurassic Park," found most things to be in order, and departed without knowing she had not seen the lab containing Theranos' own machines.142
+   For Tyler and Cheung, however, Theranos' handling of proficiency testing was the greatest source of concern. Proficiency testing was the process by which labs maintained their federal certification (administered by CMS). Three times per year, CMS would arrange for samples of blood that had been tested by other certified labs to be retested. In order to maintain its certification, a lab had to produce results that matched the original results within a small margin of error. When Theranos had been doing all its blood testing on traditional Siemens or DiaSorin machines (while it was processing Safeway employee samples), it had done proficiency testing on those same machines. When the company launched at Walgreens and switched to doing several of its tests on Edisons, however, it did not do any proficiency testing on the Edisons.143
+   On one proficiency testing round in early 2014, the lab's co-director, Alan Beam, decided that he needed to test the blood on the Edisons if Theranos was going to use them for actual samples. When he did, the Edisons' results deviated wildly from the conventional equipment. Beam concluded that he had to report the troubling results to CMS. But when Balwani found out that Beam had tested the Edisons, he flew into a rage and prohibited him from releasing the results.144 That proved the final straw for Tyler Shultz.
+   On March 31, 2014, Tyler wrote pseudonymously to an administrator for a proficiency testing program that Theranos participated in (affiliated with the New York Department of Health), asking whether the lab practices he had witnessed were legal. The administrator replied that they were not- Theranos' use of the Edison machines to process patient samples while performing proficiency testing on other machines was "cheating," and "in violation of state and federal requirements." The administrator gave Tyler the choice of either telling her the name of the company or submitting an anonymous complaint to the state's lab investigator. He chose the second option.145 He then went to speak with his grandfather. Tyler knew he had little chance of convincing George that Theranos was actively engaging in subterfuge. After all, his grandparents had recently hosted Holmes' 30th birthday party at their home.146 Tyler was right: while George trusted his grandson's judgment, he figured that Tyler's concerns had to be a misunderstanding and suggested that he raise them with Holmes directly.147
+   When Tyler emailed Holmes about the lab's mismanagement, however, it was Balwani who replied. After, in Carreyrou's description "belittling everything from [Tyler's] grasp of statistics to his knowledge of laboratory science," Balwani wrote: "I have now spent an extraordinary amount of time postponing critical business matters to investigate your assertions-the only email on this topic I want to see from you going forward is an apology. . . I have taken so much time away from work to address this personally," he added, only "because you are Mr. Shultz's grandson."148
+   Shortly thereafter, Tyler tendered his notice. Theranos' HR director, however, told him that he should leave immediately. As he was driving home, he received an agitated phone call from his mother. "I just got off the phone with your grandfather," she told him. "He said Elizabeth called him and told
+
+
+
+
+him that if you insist on carrying out your vendetta against her, you will lose."149 Tyler diverted his drive to George's office, where he again tried to plead his case. George told him: "They're trying to convince me that you're stupid. They can't convince me that you're stupid. They can, however, convince me that you're wrong, and in this case I do believe that you're wrong."150 Tyler tried again to persuade his grandfather over dinner that night, bringing Cheung along for added support. They still could not overcome George's skepticism. He reminded them that (as the board had been told) Theranos devices were "being used in medevac helicopters and hospital operating rooms." Tyler and Cheung told him that was impossible, considering that Theranos' devices did not work in the company's own lab. George, however, held firm.151
+   The next day, Cheung quit. As she left, the HR director reminded her not to say anything about Theranos on Facebook, LinkedIn, or anywhere else: "We have ways of tracking that. We'll see it if you post anything anywhere."152
+Failing to Deliver
+   By 2015, Theranos' Walgreens pilot had expanded to 40 stores in Phoenix.153 The expansion was accompanied by a regional advertising push, with several TV spots featuring Holmes herself. TV ads even marketed Theranos gift cards.154 Around the same time, Theranos also led a lobbying push in Arizona state government, which culminated in the passage of a law in April 2015 legalizing "direct testing." (Prior to the law's passage, all lab tests had required a physician's order. Under the new legislation, a patient could order any lab test for himself.)155
+   As its volume grew, however, Theranos began to receive complaints from Phoenix. The chief complaint was false advertising: despite Theranos' claims to use only finger-sticks for testing, several Walgreens customers reported to their doctors that phlebotomists at Walgreens had used venipunctures (traditional blood draws) instead.156 As it turned out, Theranos could only perform about a third of the 240 tests it offered using finger-sticks (and only 12 tests on its proprietary Edisons).157
+   Theranos also received complaints from doctors about strange test results. A patient in Phoenix had called off a vacation after Theranos results incorrectly suggested she might have deep vein thrombosis. Another test had shown abnormally high TSH in a pregnant woman already on medication to inhibit that hormone. After seeing the abnormal Theranos result, the woman's doctor sent her to a Quest lab to get retested. Those results were normal. (If the doctor had reacted to the Theranos test by increasing the patient's medication dosage, she might have lost her baby.)158
+   Complaints were usually referred to Beam, whose job it was to persuade skeptical doctors of Theranos' efficacy. For months, he had fought Holmes and Balwani to allow him to use venipunctures and traditional lab methods instead of the tests he knew to be faulty. He had also fought successfully to prevent Holmes and Balwani from using dubious levels of dilution on the Siemens machines for HIV tests.159 As their trust in Beam dwindled, Holmes and Balwani had begun to withhold data from him on the lab's quality control testing.160 In early 2015, after receiving another in a long line of requests to affirm Theranos tests to skeptical doctors, Beam resigned. Before leaving, he forwarded himself a trove of email communications with Holmes and Balwani.161
+The Peak
+   When Beam left, Holmes was at the height of her fame and fortune. In early 2014, she had won a significant legal settlement against an inventor, doctor, and former neighbor who had patented a technology that he knew Theranos would one day need to license.162 Representing Theranos in the
+
+
+
+
+lawsuit was one of the most famous lawyers in the U.S., David Boies. Boies, who had represented Al Gore during the 2000 presidential election and successfully argued for the legalization of gay marriage at the U.S. Supreme Court, accepted his payment from Theranos in stock rather than cash. Two years later, he joined Theranos' board.163
+   News of the settlement coincided with an avalanche of favorable press. Most prominent was Fortune magazine's cover feature "This CEO is Out for Blood," published June 12, 2014. In the article, Holmes was again compared to Jobs and Gates (by her old chemistry professor Channing Robertson, who was on Theranos' payroll as an advisor for $500,000 a year).164 Fortune reporter Roger Parloff also collected (but did not publish) glowing quotes from George Shultz and Mattis. Of Holmes, the latter said: "She has probably one of the most mature and well-honed sense of ethics-personal ethics, managerial ethics, business ethics, medical ethics that I've ever heard articulated."165
+   In Fortune, Holmes was tightlipped about the actual science involved in Theranos' product. Parloff wrote: "Holmes will only say-and this is more than she has ever said before-that her company uses 'the same fundamental chemical methods' as existing labs do. Its advances relate to 'optimizing the chemistry' and 'leveraging software' to permit those conventional methods to work with tiny sample volumes."166 Shortly after the publication of the Fortune article came another, more in-depth profile in the New Yorker.167
+   In the latter half of 2015, unbeknownst to Holmes and Theranos, Carreyrou became curious about the company. Aspects of the New Yorker's profile of Holmes struck him as odd. It quoted Holmes describing how Theranos devices worked: "A chemistry is performed so that a chemical reaction occurs and generates a signal from the chemical interaction with the sample, which is translated into a result, which is then reviewed by certified laboratory personnel." To him, "those sounded like the words of a high school chemistry student, not a sophisticated laboratory scientist."168
+   Carreyrou began researching the company. His first contacts were Richard Fuisz (the inventor who had settled the patent dispute with the company in 2014), Adam Clapper, a pathologist from New York who wrote a blog post expressing skepticism about the efficacy of Theranos technology, and the widow of Ian Gibbons, a Theranos lead chemist who had died by suicide in 2013.169 That networking led Carreyrou to reach out to Alan Beam. Erika Cheung and Tyler Shultz subsequently contacted him secretly. Three themes consistently emerged from Carreyrou's research: that the company regularly falsified proficiency testing results, that its tests were far less accurate than traditional methods, and that despite Theranos' claims to the contrary, it was not performing most of its tests on its proprietary equipment.170
+   Tyler was conflicted about talking to Carreyrou. He feared retribution from Holmes if he talked. But at the same time, Carreyrou noted, he wanted "to give his grandfather the chance to clear his name. 'He made it through Watergate and the Iran-Contra scandal with his integrity intact,' Tyler told me. 'I'm sure he'll get through Theranos if he's still alive to make things right.'"171 Tyler became one of Carreyrou's main sources on Theranos' proficiency testing and lab standards.
+   On May 27, 2015, shortly after Carreyrou sent his findings to Theranos for comment per Wall Street Journal policy, Tyler was headed to his parents' house in Palo Alto for dinner. He was greeted by his father, who asked nervously whether he had been talking to a reporter about Theranos. When he said he had, his father informed him that George had called the house to tell him that Theranos knew Tyler was talking to a reporter, and that he would have to meet with Theranos' lawyers right away and sign a document to avoid "a world of trouble."172
+
+
+
+
+   On his way to George's house, Tyler called Carreyrou to figure out how word of their contact had leaked. As it turned out, Carreyrou had accidentally included in his email to Theranos calculations made by Tyler. Tyler, relieved, maintained that such a figure could have come from anybody-"he could easily explain that number away."173 When he arrived at George's house, his grandfather informed him that since the Journal was on the cusp of publishing Theranos' "trade secrets," Tyler had to sign an agreement stating that from that day forward, he would keep Theranos data confidential. Holmes had told George that, if Theranos could show in court that the company had made a good faith effort to protect its secrets against leakers like Tyler, it could keep those secrets out of the public domain when the article was published. George told Tyler he had to sign it: "We're doing this for you. Elizabeth says your career will be over if this article is published." Tyler insisted that he had not talked to Carreyrou, but he said he would consider signing it.174
+   Shultz then startled his grandson, saying: "good, there are two Theranos lawyers upstairs. Can I go get them?"175 He returned with two partners from Boies' law firm. Questioned by the lawyers, Tyler again denied having spoken to Carreyrou. The lawyers became increasingly aggressive until George intervened: "I know this kid, and this kid doesn't lie. If he says he didn't speak to the reporter, then he didn't speak to the reporter."176 After seeing the lawyers out of his home, George called Holmes, agreeing the lawyers could return the next day with a document for Tyler to sign.177
+   When they returned, Tyler refused to sign.178 As it turned out, Theranos' lawyers were demanding more than a mere commitment to respect confidentiality. The company demanded that Tyler reveal anything he knew about Carreyrou's reporting, including the identity of his other sources. Tyler declined. He hired his own counsel, who went back and forth with Theranos' lawyers through several drafts of an affidavit.179 As Carreyrou wrote, Boies' colleagues made Tyler aware that "the firm would make sure to bankrupt his entire family when it took him to court." It also suggested that he would be tailed by a private investigator.180
+   Cheung had similar experiences after she spoke to Carreyrou. At her new workplace, she was approached in the parking lot by a man who hand-delivered a letter accusing her of leaking Theranos "trade secrets" and threatening her with a lawsuit.181 Carreyrou's other sources, including Beam, were threatened, as was Carreyrou himself. Several Theranos lawyers came to the Journal's offices to inform him that Theranos would be suing him and the Journal for publishing "trade secrets."182,183
+The Fall
+   Carreyrou's first article, published in October 2015, caused an immediate firestorm, quickly sowing doubt among Holmes' backers. Even Fortune, which had celebrated Holmes a year earlier, acknowledged in its newsletter that "a high flying unicorn has been brought closer to earth this morning by a deeply-reported story on the front page of the Wall Street Journal."184 Theranos issued a rebuttal through press release, labelling Carreyrou's story "factually and scientifically erroneous and grounded in baseless assertions by inexperienced and disgruntled former employees and industry incumbents."185
+   Theranos' outlook became bleaker, however, when the very next week an insider informed Carreyrou that the FDA and CMS had opened investigations. Carreyrou quickly published another article on those investigations.186 The FDA had found inadequate data to support the nanotainer's efficacy for storing blood and considered it "an uncleared medical device," imperiling Theranos' use of finger-sticks.187 The CMS investigation into Theranos' lab practices, based on an anonymous tip (from Erika Cheung), found Theranos' Edison machines to be unreliable and dangerous for patient testing.188 It found that Theranos "had allowed unqualified personnel to handle patient samples, it had
+
+
+
+
+stored blood at the wrong temperatures, it had let reagents expire, and it had failed to inform patients of flawed test results."189 CMS warned Holmes that if she did not correct those problems, she would be barred from running a lab for two years.190
+   The investigations triggered an unraveling that would unfold over the next three years. Shultz, Kissinger, and several other board members left in late 2015 for a more "ceremonial" Board of Counselors.191 In November, Safeway voided its contract with Theranos, after the latter missed a series of deadlines for equipping the supermarkets' wellness centers.192 Midway through 2016, CMS followed through on its threat, closing Theranos' Newark lab and banning Holmes from running a lab for two years.193 Walgreens dissolved its partnership with Theranos shortly thereafter, leading the company to lay off 300 of its 700-900 employees.194
+   In October and November 2016, Theranos was sued by both Partner Fund (for its full investment plus damages, alleging securities fraud) and Walgreens (for $140 million, alleging breach of contract). Both suits were settled for undisclosed amounts.195 An additional group of over 200 smaller investors attempted to bring a class action lawsuit against Theranos in November 2016 for alleged fraud, but the suit was dismissed in June 2018 on grounds that the plaintiffs could not uniformly prove that the company's misrepresentations had persuaded them to invest.196 In March 2018, Theranos was accused by the SEC of perpetrating an "elaborate, years-long fraud" against investors, partners, and patients, and in June, Holmes and Balwani were indicted by a federal grand jury for wire fraud, carrying a maximum prison sentence of 20 years, leading Holmes to abdicate her position as CEO.197 Three months later, Theranos, with just 25 employees remaining, went into credit default and closed its doors.198,199
+   Surveying the wreckage of Theranos, observers were quick to assign blame. One question that remained open, however, was how (or, indeed, whether) Theranos was an unusual case in the world of Silicon Valley startups. In the words of Dan Ariely, renowned author and Professor of Psychology at Duke University:
+   There's a lot of lying in Silicon Valley. . . you put the post somewhere really far and you have no idea if you can really do it. . . my sense from the discussion with Elizabeth was that she was basically doing the same thing that everyone else is doing...we have lots of people who are overconfident and from time to time it works out and we get penicillin or the incandescent light bulb. . . and if you are surrounded by companies who try very hard and dedicate their lives to achieve the impossible and sometimes they're successful in doing it, why can't you?200
+
+
+
+
+Exhibit 1	Timeline: Theranos Funding, Product Development, and Deals
+
+February 11, 2005:	Theranos receives first $5.8 million in Series A funding Early 2006:	Work begins on refining Theranos 1.0 into a prototype February 21, 2006:	Theranos receives $9.9 million in Series B funding
+July-August 2006:	Work begins on Theranos' Edison
+November 2006:	Theranos does first pharma company demo (Novartis) with Theranos 1.0 November 7, 2006:   Theranos receives $28.5 million in Series C funding
+July 8, 2010:	Theranos receives $45 million in Series D funding, valuing Theranos at $1 billion.
+August 2010:	Theranos strikes deal with Walgreens to place devices in its stores, with a pilot scheduled to begin by mid-2011
+Early 2011:	Work begins on Theranos' miniLab
+2011:	Theranos forms partnership with Safeway, with Theranos agreeing to offer blood testing in newly-renovated wellness centers in Safeway stores nationwide
+Early 2012:	Theranos builds blood lab to handle samples from Safeway employee clinic Early 2012:	Functioning (but unreliable) prototype of miniLab is completed
+September 2013:	Lucas Venture Group leads a $15 investment in Theranos, valuing it at $6 billion
+November 13, 2013: Walgreens publicly announces partnership with Theranos, along with the opening of its first wellness centers in Phoenix, Arizona area
+February 4, 2014:	Partner Fund invests $96 million in Theranos, valuing it at $9 billion
+July 2, 2015:	Theranos receives its first FDA approval for a test (for the HSV-1 herpes virus) October 15, 2015:	First Carreyrou story is published in the Wall Street Journal
+November 10, 2015:	Safeway ends its partnership with Theranos, after building 800 wellness centers in its stores at a cost of $350 million
+June 12, 2016:	Walgreens ends its contract with Theranos July 7, 2016:	CMS suspends Theranos' CLIA lab license
+November 8, 2016:	Walgreens sues Theranos for full value of its investment in the startup, $140 million
+Source: Casewriter, compiled from Carreyrou, Bad Blood, Meghana Keshavan and Neil Versel, "Theranos Doomsday Clock: A full timeline of its rise and fall (Updated)," MedCity News, February 5, 2016, https://medcitynews.com/2016/02/theranos-doomsday-clock-full-timeline-rise-fall/?rf=1, accessed December 2018.
+
+
+
+
+Exhibit 2	Selected Slides from Theranos 2006 Investor Pitch Deck
+
+
+
+
+Source:  Dan Primack, "Exclusive: Theranos 2006 pitch deck," Axios, January 18, 2017, https://www.axios.com/exclusive- theranos-2006-pitch-deck-1513299967-ad008bbd-b684-4e3f-9301-5d560668d488.html, accessed November 2018.
+
+
+
+
+Exhibit 2 Cont.	Selected Slides from Theranos 2006 Investor Pitch Deck
+
+
+Source: Dan Primack, "Exclusive: Theranos 2006 pitch deck," Axios, January 18, 2017, https://www.axios.com/exclusive- theranos-2006-pitch-deck-1513299967-ad008bbd-b684-4e3f-9301-5d560668d488.html, accessed November 2018.
+
+
+
+
+Exhibit 2 Cont.	Selected Slides from Theranos 2006 Investor Pitch Deck
+
+
+Source: Dan Primack, "Exclusive: Theranos 2006 pitch deck," Axios, January 18, 2017, https://www.axios.com/exclusive- theranos-2006-pitch-deck-1513299967-ad008bbd-b684-4e3f-9301-5d560668d488.html, accessed November 2018.
+
+
+
+
+Exhibit 3	Assorted Employee Reviews of Theranos from Glassdoor.com
+
+August 2016
+"Lots of Broken Dreams"
+   "Coming here with the hopes and dreams that you were really part of something bigger. Possibly changing health care. Only to find out it was a big scam. Nothing worked. It was all a bunch of over hyped lies and deceptions."
+
+
+September 2016
+"SO FRUSTRATING"
+   "no scientific integrity, not data driven (going into experiments with a wanted outcome and ignoring any data that shows otherwise), being put on projects that are clearly only PR driven, no attention to obvious glaring issues with the technology, upper management taking shortcuts..."
+
+
+January 2018
+"Are there any adults in the room?"
+   "There is zero direction or structure, the quality and regulatory systems and knowledge and compliance thereof is almost nil. SCARY ... Elizabeth Holmes should have stepped aside to let someone capable run her company long ago, and it may have survived. But she has too much ego and Elizabeth Inc. will go down in a sputtering flame, at the expense of many brilliant and underappreciated and directionless employees that she doesn't give a damn about. It is a FRAUD, to investors, to the public and patients, and deeply to employees."
+
+
+February 2018
+"Shut down"
+   "...From day 1, an unnerving feeling I'd joined a cult (like an observer not yet brainwashed) that only escalated in sinister intensity until my last day. Most management served with steadfast commitment to perpetuating all the necessary pretenses and myths so as to placate execs, as the truth was always some variant of game changer/deal breaker/scientific paradigm un-re-definer. That culture almost invalidated the ... entire concept of logic and the related prospect of reasoning, which remained beyond the feeble grasp of most inhabitants of this carefully crafted, painfully distorted alternate reality."
+
+
+Source:  Casewriter, excerpted from "Theranos' chaotic descent, as told by employees," Fox Business, March 15, 2018, https://www.foxbusiness.com/features/theranos-chaotic-descent-as-told-by-employees, accessed December 2018.
+
+
+
+
+Exhibit 4a	The Theranos Minilab
+
+
+Source:  Sarah Buhr, "Unpacking the innards of Theranos' new Zika-detection box," TechCrunch, August 5, 2016, https://techcrunch.com/2016/08/05/unpacking-theranoss-magic-zika-detection-box/, accessed December 2018.
+
+
+Exhibit 4b	Holmes in the Theranos Lab
+
+Source: Photo by CARLOS CHAVARRIA/The New York Times/Redux. Reed Abelson, "Theranos Founder Elizabeth Holmes Indicted	on	Fraud	Charges,"	New	York	Times,	June	15,	2018, https://www.nytimes.com/2018/06/15/health/theranos-elizabeth-holmes-fraud.html, accessed December 2018.
+
+
+
+
+Exhibit 5	Timeline of Theranos Publicity and Exposure
+
+Fall 2012:	Theranos hires Chiat\Day to manage its publicity
+September 8, 2013:	Theranos debuts on national stage with Wall Street Journal feature story "Elizabeth Holmes: The Breakthrough of Instant Diagnosis"
+June 12, 2014:	Elizabeth Holmes featured on the cover of Fortune
+July 2014:	Elizabeth Holmes listed number nine on Fortune "40 Under 40" December 15, 2014:	Elizabeth Holmes featured in long profile in New Yorker
+May 2015:	Elizabeth Holmes appointed a Presidential Ambassadorship for Global Entrepreneurship by President Barack Obama
+July 23, 2015:	Vice President Joe Biden visits Theranos lab
+October 2015:	Elizabeth Holmes featured on cover of Inc. magazine, with the headline "The Next Steve Jobs"
+October 21, 2015:	Elizabeth Holmes presents at Wall Street Journal D.Live Conference
+August 1, 2016:	Elizabeth Holmes appears at American Association for Clinical Chemistry conference
+Source:  Casewriter,  compiled  from Carreyrou,  Bad  Blood;  Fortune,  June  12,  2014;  "Elizabeth  Holmes,  30," http://fortune.com/40-under-40/2014/elizabeth-holmes-9/, Fortune, accessed December 2018; Ken Auletta, "Blood, Simpler," New Yorker, December 15, 2014, https://www.newyorker.com/magazine/2014/12/15/blood-simpler, accessed December 2018; Byron Tau, "Meet President Obama's Entrepreneurship Ambassadors," Wall Street Journal, May		11,	2015,		https://blogs.wsj.com/washwire/2015/05/11/meet-president-obamas-entrepreneurship- ambassadors/?ns=prod/accounts-wsj, accessed December 2018; Rebecca Parr, "Vice President Joe Biden visits biotech firm	Theranos's	Newark	production	facility,"	San	Jose	Mercury	News,	July	23,	2015, https://www.mercurynews.com/2015/07/23/vice-president-joe-biden-visits-biotech-firm-theranoss-newark- production-facility/, accessed December 2018; Noah Kulwin, "Theranos CEO Elizabeth Holmes's Five Best Cover Story Appearances, Ranked," Recode, October 26, 2015, https://www.recode.net/2015/10/26/11620036/theranos- ceo-elizabeth-holmess-five-best-cover-story-appearances, accessed December 2018.
+
+
+
+
+Exhibit 6	Theranos' Valuation in Late 2013 Compared to Other Well-Known "Unicorns" ($billions)
+
+Source: Casewriter, compiled from Carreyrou, Bad Blood, 177; Alex Wilhelm, "Putting Square's $5 billion valuation into context," TechCrunch, January 13, 2014, https://techcrunch.com/2014/01/13/putting-squares-5b-valuation-into- context/, accessed December 2018; Alyson Shontell, "The Vision For $3.4 Billion Uber Is Much More Than Just A Car Service, And It Could Vastly Improve Our Lives," Business Insider, August 13, 2013, https://www.businessinsider.com/why-uber-is-worth-34-billion-2013-8, accessed December 2018; "Series C - Airbnb," Crunchbase, https://www.crunchbase.com/funding_round/airbnb-series-c--fb9e4d00#section-overview, accessed December 2018; "Series F - Spotify," Crunchbase, https://www.crunchbase.com/funding_round/spotify- series-f--8fff2ebf, accessed December 2018.
+
+
+
+
+Exhibit 7a	Members of Theranos Board of Directors, October 2015
+
+NameBackgroundElizabeth Holmes (Chairman)CEO of TheranosRamesh "Sunny" BalwaniPresident and COO of TheranosRiley P. BechtelChairman of the Board of construction company Bechtel GroupWilliam H. FoegeHead of the Centers for Disease Control and Prevention (1977-1983)William H. FristU.S. Senator (R-TN, 1995-2007), Former Transplant SurgeonHenry A. KissingerU.S. Secretary of State (1973-1977), National Security Advisor (1969-1975)Richard KovacevichCEO of Wells Fargo (1998-2007)James N. MattisRetired U.S. Marine Corps General, Commander of U.S. Central Command (2010- 2013)Sam NunnU.S. Senator (D-GA, 1972-1997)William J. PerryU.S. Secretary of Defense (1994-1997)Gary RougheadRetired U.S. Navy AdmiralGeorge P. ShultzU.S. Secretary of State (1982-1989), Secretary of the Treasury (1972-1974), Dean of University of Chicago Graduate School of Business (1962-1968)Source:  Casewriter, adapted from Lydia Ramsey, "Controversial health startup Theranos has barely any medical experts on its board of directors," Business Insider, October 16, 2015, https://www.businessinsider.com/theranos-board-of- directors-2015-10, accessed December 2018
+
+
+Exhibit 7b	Theranos "Governing Board," "Board of Counselors," "Medical Board," November 2015
+
+NameBackgroundGoverning BoardElizabeth Holmes (Chairman)CEO of TheranosRamesh "Sunny" BalwaniPresident and COO of TheranosDavid BoiesPartner in Law Firm Boies, Schiller, and FlexnerRiley P. BechtelChairman of the Board of construction company Bechtel GroupJames N. MattisRetired U.S. Marine Corps General, Commander of U.S. Central Command (2010-2013)Board of CounselorsWilliam H. Foege, MDHead of the Centers for Disease Control and Prevention (1977-1983)William H. Frist, MDU.S. Senator (R-TN, 1995-2007), Former Transplant SurgeonHenry A. KissingerU.S. Secretary of State (1973-1977), National Security Advisor (1969-1975)Richard KovacevichCEO of Wells Fargo (1998-2007)Sam NunnU.S. Senator (D-GA, 1972-1997)William J. PerryU.S. Secretary of Defense (1994-1997)Gary RougheadRetired U.S. Navy AdmiralGeorge P. ShultzU.S. Secretary of State (1982-1989)Medical BoardDr. FoegeDr. FristDavid Helfet, MDOrthopedic Surgeon at Hospital for Special Surgery in New YorkJonathan Simons, MDOncologist, CEO of the Prostate Cancer FoundationSource:  Casewriter, adapted from "Theranos trims board of directors from 12 to 5," Becker's Hospital Review, October 29, 2015, https://www.beckershospitalreview.com/hospital-management-administration/theranos-trims-board-from-12-to-  5-dismissing-henry-kissinger-and-others.html, accessed December 2018.
+
+Note:	Theranos established its Board of Counselors and Medical Board in October 2015 in the aftermath of John Carreyrou's series of investigative articles.
+
+
+
+
+Exhibit 8a	Theranos Funding Rounds
+
+DateRound TypeAmountJune 15, 2004Seed$500 thousandFebruary 11, 2005Series A$5.8 millionFebruary 21, 2006Series B$9.1 millionNovember 17, 2006Series C$28.5 millionJuly 8, 2010Venture$45 millionSeptember 9, 2013Partnership with Walgreens$50 millionFebruary 1, 2014Private Equity$198.9 millionMarch 1, 2015Private Equity$348.5 millionSource: "Theranos," Crunchbase, https://www.crunchbase.com/organization/theranos#section-funding-rounds, accessed April 2019.
+
+
+Exhibit 8b	Selected Individual Investors in Theranos after 2013
+
+IndividualBackgroundAmountWalton FamilyHeirs to Walmart$150 millionRupert MurdochExecutive Chairman of News Corp (parent of Wall Street
+Journal and Fox News)$125 millionDeVos FamilyFamily of Amway and Prince Corporation CEOs$100 millionCox FamilyHeirs to Cox Communications, other telecom companies$100 millionCarlos SlimCEO of Grupo Carso (Mexico)$30 millionAndreas DracopoulosGreek shipping heir$25 millionOppenheimer FamilyEx-owners of De Beers diamond company$20 millionRiley BechtelChairman of the Board of construction company Bechtel Group$6.2 millionRobert KraftOwner of New England Patriots football team$1 millionSource:  Casewriter, adapted from Polina Marinova, "How to lose $700 million, Theranos-style," Fortune, May 4, 2018, http://fortune.com/2018/05/04/theranos-investment-lost/, accessed December 2018.
+
+
+Exhibit 8c	Selected Firm Investors in Theranos
+
+FirmTypeAmountWalgreensPharmacy$140 millionPartner Fund
+ManagementHedge Fund$96 millionLucas Venture GroupVenture Capital$15 millionSafewaySupermarket$10 millionSource: Casewriter, compiled from Carreyrou, Bad Blood, 177; Carreyrou, "Safeway, Theranos Split After $350 Million Deal Fizzles," Wall Street Journal, November 10, 2015, https://www.wsj.com/articles/safeway-theranos-split-after-350- million-deal-fizzles-1447205796; Polina Marinova, "How to lose $700 million, Theranos-style," Fortune, May 4, 2018, http://fortune.com/2018/05/04/theranos-investment-lost/; Christopher Weaver, John Carreyrou and Michael Siconolfi, "Walgreens Sues Theranos, Seeks $140 Million in Damages," Wall Street Journal, November 8, 2016, https://www.wsj.com/articles/walgreens-seeks-to-recover-140-million-investment-from-theranos-1478642410, all accessed December 2018.
+
+
+
+
+Endnotes
+
+1 Joseph Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis," Wall Street Journal, September 8, 2013, https://www.wsj.com/articles/elizabeth-holmes-the-breakthrough-of-instant-diagnosis-1378526813, accessed December 2018.
+2 Maya Kosoff, "'We Set Ourselves on Fire:': Elizabeth Holmes, Disgraced Theranos C.E.O, Charged with 'Massive Fraud,'" Vanity Fair, March 14, 2018, https://www.vanityfair.com/news/2018/03/elizabeth-holmes-disgraced-theranos-ceo-charged- with-massive-fraud, accessed December 2018.
+3 "Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud," U.S. Securities and Exchange Commission, March 14, 2018, https://www.sec.gov/news/press-release/2018-41, accessed December 2018.
+4 Forbes Staff, "Forbes Announces Inaugural List Of America's 50 Richest Self-Made Women," Forbes, May 27, 2015, https://www.forbes.com/sites/forbespr/2015/05/27/forbes-announces-inaugural-list-of-americas-50-richest-self-made- women/#1e4e59d124c1, accessed February 2019.
+5 Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis;" Forbes Staff, "Forbes Announces Inaugural List Of America's 50 Richest Self-Made Women;" Ken Auletta, "Blood, Simpler," New Yorker, December 15, 2014, https://www.newyorker.com/magazine/2014/12/15/blood-simpler, accessed December 2018.
+6 "Industry Flash Report: Laboratory Services," Kaufman, Hall, and Associates, February 2016, https://www.kaufmanhall.com/sites/default/files/kaufman_hall_industry_flash_report_laboratory.pdf, accessed December 2018.
+7 John Carreyrou, Bad Blood: Secrets and Lies at a Silicon Valley Startup (New York: Knopf, 2018), pp. 208-209.
+8 John Carreyrou, "Hot Startup Theranos Has Struggled With Its Blood-Test Technology," Wall Street Journal, October 16, 2015, https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901, accessed February 2019.
+9 Kanishka Singh, "Embattled Blood Testing Firm Theranos to dissolve: WSJ," Reuters, September 4, 2018, https://www.reuters.com/article/us-theranos-bankruptcy/embattled-blood-testing-firm-theranos-to-dissolve-wsj- idUSKCN1LL077, accessed February 2019.
+10 Carreyrou, Bad Blood, pp. 9-10.
+11 Carreyrou, Bad Blood, p. 9.
+12 Auletta, "Blood, Simpler."
+13 Carreyrou, Bad Blood, pp. 11-14.
+14 Carreyrou, Bad Blood, p.13.
+15 Carreyrou, Bad Blood, p. 14.
+16 Carreyrou, Bad Blood, p. 14.
+17 Carreyrou, Bad Blood, p 15.
+18 Rebecca Jarvis, "Myth-Making," The Dropout podcast, ABC News Radio, February 6, 2019, https://www.stitcher.com/podcast/the-dropout/e/58615558?autoplay=true, accessed February 2019.
+19 Carreyrou, Bad Blood, p. 14.
+20 "Elizabeth Holmes," Stanford Technology Ventures Program, Youtube, August 28, 2013, https://www.youtube.com/watch?v=pIXAmjUFSso, accessed December 2018.
+21 Carreyrou, Bad Blood, p. 14.
+22 Carreyrou, Bad Blood, p. 15.
+23 Carreyrou, Bad Blood, p. 15.
+24 Carreyrou, Bad Blood, pp. 15-16.
+25 Carreyrou, Bad Blood, p. 16.
+
+
+
+
+
+
+26 Carreyrou, Bad Blood, p. 16.
+27 Carreyrou, Bad Blood, p. 17.
+28 Carreyrou, Bad Blood, p. 17.
+29 Carreyrou, Bad Blood, pp. 179-181.
+30 Carreyrou, Bad Blood, p. 17.
+31 Carreyrou, Bad Blood, pp. 17, 20.
+32 "Theranos Funding Rounds," Crunchbase, https://www.crunchbase.com/organization/theranos#section-locked-charts, accessed December 2018.
+33 Carreyrou, Bad Blood, pp. 17-18.
+34 Carreyrou, Bad Blood, p. 20.
+35 Carreyrou, Bad Blood, p. 23.
+36 Carreyrou, Bad Blood, p. 35.
+37 Carreyrou, Bad Blood, pp. 7-8.
+38 Carreyrou, Bad Blood, pp. 3-4.
+39 Carreyrou, Bad Blood, pp. 6-7.
+40 Carreyrou, Bad Blood, pp. 6-7.
+41 Carreyrou, Bad Blood, p. 49.
+42 Carreyrou, Bad Blood, p. 74.
+43 Carreyrou, Bad Blood, p. 22.
+44 Carreyrou, Bad Blood, pp. 26-27.
+45 Carreyrou, Bad Blood, p. 28.
+46 Carreyrou, Bad Blood, p. 29.
+47 Carreyrou, Bad Blood, pp. 29-31.
+48 Carreyrou, Bad Blood, p. 28.
+49 Carreyrou, Bad Blood, p. 50.
+50 Carreyrou, Bad Blood, p. 73.
+51 For instance, see Carreyrou, Bad Blood, pp. 33-34.
+52 Carreyrou, Bad Blood, 32.
+53 Carreyrou, Bad Blood, p. 8.
+54 Carreyrou, Bad Blood, p. 37.
+55 Jarvis, "Myth-Making," The Dropout.
+56 Carreyrou, Bad Blood, p. 164.
+57 Carreyrou, Bad Blood, p. 25.
+58 Carreyrou, Bad Blood, p. 35.
+59 Carreyrou, Bad Blood, p. 35.
+60 Carreyrou, Bad Blood, p. 7.
+
+
+
+
+
+
+61 Carreyrou, Bad Blood, p. 5.
+62 Carreyrou, Bad Blood, p. 35.
+63 Carreyrou, Bad Blood, p. 38.
+64 Carreyrou, Bad Blood, pp. 38, 40.
+65 Carreyrou, Bad Blood, p. 50.
+66 Carreyrou, Bad Blood, p. 51.
+67 Carreyrou, Bad Blood, p. 51.
+68 Carreyrou, Bad Blood, p. 51.
+69 Carreyrou, Bad Blood, p. 69.
+70 Carreyrou, Bad Blood, p. 71.
+71 Rebecca Jarvis, "The Enforcer," The Dropout.
+72 Carreyrou, Bad Blood, pp. 98-99.
+73 Walgreens' number of stores in the United States from fiscal year 2005 to fiscal year 2017, via Statista, accessed December 2018.
+74 Carreyrou, Bad Blood, pp. 83, 85.
+75 Carreyrou, Bad Blood, p. 85.
+76 Carreyrou, Bad Blood, p. 86.
+77 Carreyrou, Bad Blood, p. 85.
+78 Carreyrou, Bad Blood, p. 88.
+79 Carreyrou, Bad Blood, p. 88.
+80 Carreyrou, Bad Blood, p. 88.
+81 Carreyrou, Bad Blood, p. 89.
+82 Carreyrou, Bad Blood, p. 89.
+83 Carreyrou, Bad Blood, p. 94.
+84 Carreyrou, Bad Blood, p. 109.
+85 Carreyrou, Bad Blood, p. 92.
+86 Carreyrou, Bad Blood, p. 92.
+87 Carreyrou, Bad Blood, p. 117.
+88 Carreyrou, Bad Blood, pp. 120-121.
+89 Carreyrou, Bad Blood, pp. 125-127.
+90 Carreyrou, Bad Blood, p. 130.
+91 David Yanofsky, "What Elizabeth Holmes and Theranos did wrong, according to the SEC," Quartz, March 15, 2018, https://qz.com/1229656/everything-elizabeth-holms-and-theranos-did-wrong-according-to-the-us-securities-and-exchange- comission/, accessed December 2018.
+92 Carreyrou, Bad Blood, p. 95.
+93 Carreyrou, Bad Blood, p. 96.
+94 Carreyrou, Bad Blood, p. 103.
+
+
+
+
+
+
+95 Carreyrou, Bad Blood, p. 97.
+96 Carreyrou, Bad Blood, p. 102.
+97 Carreyrou, Bad Blood, p. 102.
+98 Carreyrou, Bad Blood, p. 168.
+99 Carreyrou, Bad Blood, p. 104.
+100 Carreyrou, Bad Blood, p. 104.
+101 Carreyrou, Bad Blood, pp. 106-107.
+102 Carreyrou, Bad Blood, pp. 167-168.
+103 Carreyrou, Bad Blood, p. 168.
+104 Rebecca Jarvis, "A Star is Born," The Dropout podcast, ABC News Radio, February 6, 2019, https://www.stitcher.com/podcast/the-dropout/e/58615558?autoplay=true, accessed February 2019.
+105 Carreyrou, Bad Blood, pp. 111-113.
+106 Carreyrou, Bad Blood, p. 112.
+107 Carreyrou, Bad Blood, pp. 114, 161.
+108 Carreyrou, Bad Blood, p. 115.
+109 Carreyrou, Bad Blood, p. 169.
+110 Carreyrou, Bad Blood, p. 170.
+111 Carreyrou, Bad Blood, p. 172.
+112 Carreyrou, Bad Blood, p. 163.
+113 Carreyrou, Bad Blood, p. 173.
+114 Carreyrou, Bad Blood, p. 30.
+115 Carreyrou, Bad Blood, p. 31.
+116 "Reality Distortion Field," Techopedia, https://www.techopedia.com/definition/23694/reality-distortion-field-rdf, accessed December 2018.
+117 Carreyrou, Bad Blood, p. 30.
+118 Carreyrou, Bad Blood, pp. 150-151.
+119 Carreyrou, Bad Blood, pp. 153.
+120 Carreyrou, Bad Blood, p. 155.
+121 Carreyrou, Bad Blood, p. 155.
+122 Carreyrou, Bad Blood, p. 156.
+123 Carreyrou, Bad Blood, p. 160.
+124 Carreyrou, Bad Blood, p. 190.
+125 Carreyrou, Bad Blood, p. 157.
+126 Joseph Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis," Wall Street Journal, September 8, 2013, https://www.wsj.com/articles/elizabeth-holmes-the-breakthrough-of-instant-diagnosis-1378526813, accessed December 2018.
+127 Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis."
+128 Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis."
+
+
+
+
+
+
+129 Rago, "Elizabeth Holmes: The Breakthrough of Instant Diagnosis."
+130 Carreyrou, Bad Blood, pp. 177-179.
+131 Carreyrou, Bad Blood, p. 179.
+132 Carreyrou, Bad Blood, pp. 177, 180-182.
+133 Carreyrou, Bad Blood, p. 182.
+134 Carreyrou, Bad Blood, p. 182.
+135 Carreyrou, Bad Blood, p. 183.
+136 Carreyrou, Bad Blood, pp. 180-181.
+137 Auletta, "Blood, Simpler."
+138 Carreyrou, Bad Blood, p. 184.
+139 Carreyrou, Bad Blood, p. 186.
+140 Carreyrou, Bad Blood, p. 187.
+141 Carreyrou, Bad Blood, p. 187.
+142 Carreyrou, Bad Blood, p. 189.
+143 Carreyrou, Bad Blood, p. 194.
+144 Carreyrou, Bad Blood, p. 194.
+145 Carreyrou, Bad Blood, p. 195.
+146 Carreyrou, Bad Blood, p. 191.
+147 Carreyrou, Bad Blood, p. 195.
+148 Carreyrou, Bad Blood, p. 196.
+149 Carreyrou, Bad Blood, p. 197.
+150 Carreyrou, Bad Blood, pp. 197-198.
+151 Carreyrou, Bad Blood, p. 199.
+152 Carreyrou, Bad Blood, p. 200.
+153 Carreyrou, Bad Blood, p. 232.
+154 Shannon Palus, "The Elizabeth Holmes Documentary Reveals an Eerie Commercial for Theranos Gift Cards," Slate, March 19, 2019, https://slate.com/technology/2019/03/theranos-creepy-gift-card-commercial.html, accessed April 2019.
+155 Rachel Leingang, "Theranos experimented on Arizonans with faulty blood tests, book says," AZCentral, June 7, 2018, https://www.azcentral.com/story/news/local/arizona/2018/06/07/theranos-elizabeth-holmes-experimented-arizonans- bad-blood-book/675541002/, accessed March 2019.
+156 Carreyrou, Bad Blood, p. 212.
+157 Carreyrou, Bad Blood, p. 234.
+158 Carreyrou, Bad Blood, pp. 234-235.
+159 Carreyrou, Bad Blood, p. 214.
+160 Carreyrou, Bad Blood, p. 215.
+161 Carreyrou, Bad Blood, p. 217.
+162 Carreyrou, Bad Blood, p. 204.
+
+
+
+
+
+
+163 Carreyrou, Bad Blood, p. 279.
+164 Carreyrou, Bad Blood, p. 208.
+165 Carreyrou, Bad Blood, p. 207.
+166 Roger Parloff, "This CEO is Out for Blood," Fortune, June 12, 2014, http://fortune.com/2014/06/12/theranos-blood- holmes/, accessed November 2018.
+167 Carreyrou, Bad Blood, pp. 223-224.
+168 Carreyrou, Bad Blood, p. 224.
+169 Carreyrou, Bad Blood, p. 225.
+170 Carreyrou, Bad Blood, pp. 223-239.
+171 Carreyrou, Bad Blood, p. 232.
+172 Carreyrou, Bad Blood, p. 240.
+173 Carreyrou, Bad Blood, p. 241.
+174 Carreyrou, Bad Blood, p. 242.
+175 Carreyrou, Bad Blood, p. 242.
+176 Carreyrou, Bad Blood, p. 243.
+177 Carreyrou, Bad Blood, p. 243.
+178 Carreyrou, Bad Blood, p. 245.
+179 Carreyrou, Bad Blood, p. 246.
+180 Carreyrou, Bad Blood, p. 247.
+181 Carreyrou, Bad Blood, p. 255.
+182 Carreyrou, Bad Blood, pp. 257, 266.
+183 Carreyrou, Bad Blood, pp. 251-253.
+184 Carreyrou, Bad Blood, p. 273.
+185 Carreyrou, Bad Blood, p. 274.
+186 Carreyrou, Bad Blood, p. 275.
+187 Jackie Wattles and Heather Kelly, "The Rise and Fall of Theranos and Elizabeth Holmes," CNN Money, March 15, 2018, https://money.cnn.com/2018/03/14/technology/theranos-elizabeth-holmes-timeline/index.html, accessed December 2018.
+188 Carreyrou, Bad Blood, p. 281.
+189 Carreyrou, Bad Blood, p. 286.
+190 Carreyrou, Bad Blood, p. 286.
+191 Carreyrou, Bad Blood, p. 279.
+192 Zaw Thiha Tun, "Theranos: A Fallen Unicorn," Investopedia, June 15, 2018, https://www.investopedia.com/articles/investing/020116/theranos-fallen-unicorn.asp, accessed December 2018.
+193 Charles Riley, "Theranos Founder Elizabeth Holmes Banned for Two Years," CNN Money, July 8, 2016, https://money.cnn.com/2016/07/08/technology/theranos-elizabth-holmes-banned/index.html?iid=EL, accessed December 2018.
+
+
+
+
+
+
+194 Robert Mclean, "Theranos Cutting Hundreds of Jobs as it Shutters Labs," CNN Money, October 5, 2016, https://money.cnn.com/2016/10/05/technology/elizabeth-holmes-theranos-minilab/index.html?iid=EL, accessed December 2018.
+195 Wattles and Kelly, "The Rise and Fall of Theranos and Elizabeth Holmes."
+196 Alex Keown, "Judge's Ruling Prevents Some Theranos Investors from Pursuing Class Action Lawsuit," Biospace, June 12, 2018, https://www.biospace.com/article/judge-s-ruling-prevents-some-theranos-investors-from-pursuing-class-action- lawsuit/, accessed April 2019.
+197 Alex Keown, "Theranos Founder Elizabeth Holmes and Former COO Sunny Balwani Charged with Wire Fraud," Biospace, June 18, 2018, https://www.biospace.com/article/theranos-founder-elizabeth-holmes-and-former-coo-sunny-balwani- charged-with-wire-fraud/, accessed December 2018.
+198 Sy Mukherjee, "Report: Theranos Just Laid Off the Vast Majority of Its Employees," Fortune, April 10, 2018, http://fortune.com/2018/04/10/theranos-layoffs-most-of-workforce/, accessed December 2018.
+199 Francine McKenna, "Theranos closes deal with Fortress to shut down embattled firm," MarketWatch, September 17, 2018, https://www.marketwatch.com/story/theranos-closes-deal-with-fortress-to-shut-down-embattled-firm-2018-09-13, accessed December 2018.
+200 Dan Ariely, quoted in The Inventor: Out for Blood in Silicon Valley, directed by Alex Gibney (HBO, 2019). Film.
+
+
+
+
+
+
+
+
